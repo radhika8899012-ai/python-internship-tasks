@@ -1,0 +1,13 @@
+Test 1: Valid Input
+Name: Radhika Meena
+Age: 20
+City: Bhopal
+Course: B.Com
+
+Test 2: Invalid Age
+Name: Radhika Meena
+Age: abc
+
+Test 3: Negative Age
+Name: Radhika Meena
+Age: -5
