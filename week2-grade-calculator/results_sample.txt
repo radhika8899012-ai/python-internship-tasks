@@ -1,0 +1,31 @@
+STUDENT GRADE CALCULATOR - SAMPLE RESULTS
+
+Student Name: Radhika
+Mathematics: 95
+Science: 85
+English: 75
+Total Marks: 255/300
+Average: 85.00
+Highest Marks: 95
+Lowest Marks: 75
+Final Grade: B
+
+Student Name: Aman
+Mathematics: 60
+Science: 70
+English: 80
+Total Marks: 210/300
+Average: 70.00
+Highest Marks: 80
+Lowest Marks: 60
+Final Grade: C
+
+Student Name: Neha
+Mathematics: 40
+Science: 50
+English: 55
+Total Marks: 145/300
+Average: 48.33
+Highest Marks: 55
+Lowest Marks: 40
+Final Grade: F
