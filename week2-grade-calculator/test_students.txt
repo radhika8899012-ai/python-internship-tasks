@@ -1,0 +1,14 @@
+Student: Radhika
+Maths: 95
+Science: 85
+English: 75
+
+Student: Aman
+Maths: 60
+Science: 70
+English: 80
+
+Student: Neha
+Maths: 40
+Science: 50
+English: 55
